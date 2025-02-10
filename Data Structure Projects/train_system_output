@@ -1,0 +1,65 @@
+Welcome to Train Compartment Simulation!
+The existing compartments of the train are:
+[ID: 1301] -> [ID: 3042] -> [ID: 7933] -> [ID: 2048] -> [ID: 5986] -> Train Engine
+
+Compartments Menu
+1. Add Compartments
+2. Remove Compartments
+3. Swap Compartments
+4. Display Train
+5. Exit
+Enter your choice: 1
+Enter Compartment ID to add: 52671
+Compartment with ID 52671 added successfully.
+Do you want to add another compartment? (y/n): y
+
+Enter Compartment ID to add: 7864
+Compartment with ID 7864 added successfully.
+Do you want to add another compartment? (y/n): n
+
+
+Compartments Menu
+1. Add Compartments
+2. Remove Compartments
+3. Swap Compartments
+4. Display Train
+5. Exit
+Enter your choice: 2
+Enter Compartment ID to remove: 3042
+Compartment with ID 3042 removed successfully.
+Do you want to remove another compartment? (y/n): n
+
+
+Compartments Menu
+1. Add Compartments
+2. Remove Compartments
+3. Swap Compartments
+4. Display Train
+5. Exit
+Enter your choice: 3
+Enter first compartment ID to swap: 1301
+Enter second compartment ID to swap: 2048
+Compartments with ID 1301 and ID 2048 have been swapped.
+
+Compartments Menu
+1. Add Compartments
+2. Remove Compartments
+3. Swap Compartments
+4. Display Train
+5. Exit
+Enter your choice: 4
+The existing compartments of the train are:
+[ID: 2048] -> [ID: 7933] -> [ID: 1301] -> [ID: 5986] -> [ID: 52671] -> [ID: 7864] -> Train Engine
+
+Compartments Menu
+1. Add Compartments
+2. Remove Compartments
+3. Swap Compartments
+4. Display Train
+5. Exit
+Enter your choice: 5
+Exiting........
+
+--------------------------------
+Process exited after 95.03 seconds with return value 0
+Press any key to continue . . .
