@@ -20,6 +20,7 @@ This repository contains projects done by me (Anushka) in different semesters
                                 Pointers and Structures (struct Compartment)
                                 Menu-driven Interface (switch case)
         
-        This project is a Train Compartment Management System that simulates how train compartments can be added, removed, swapped, and displayed using a linked list. Each compartment is represented as a node in a linked list, where compartments are connected in sequence like a real train.
+        This project is a Train Compartment Management System that simulates how train compartments can be added, removed, swapped, and displayed using a linked list. 
+        Each compartment is represented as a node in a linked list, where compartments are connected in sequence like a real train.
         
         The project provides a menu-driven interface that allows the user to perform various operations on the train compartments dynamically.
