@@ -14,7 +14,7 @@ This repository contains projects done by me (Anushka) in different semesters
 2. Data Structure Projects
    
 
-       2.1 **TRAIN COMPARTMENT MANAGEMENT SYSTEM**
+       2.1 **TRAIN COMPARTMENT MANAGEMENT SYSTEM** (Nov-Dec, 2023)
    --------------------------------------------------
             Concepts Used:--
                Programming language - C
@@ -30,7 +30,7 @@ This repository contains projects done by me (Anushka) in different semesters
         
    The project provides a menu-driven interface that allows the user to perform various operations on the train compartments dynamically.
 
-3. google sites project
+3. google sites project (Nov-Dec, 2024)
    
            STUDYWORLD – SEMESTER 3 RESOURCE HUB
 
